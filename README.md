@@ -1,40 +1,11 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@kamikazeayoup 
-MarikIshtar007
-/
-MarikIshtar007
-Public
-Fork your own copy of MarikIshtar007/MarikIshtar007
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-MarikIshtar007/README.md
-@MarikIshtar007
-MarikIshtar007 Update README.md
-Latest commit c7be1c6 on Jan 7
- History
- 3 contributors
-@MarikIshtar007@rajesh545862@brignano
-61 lines (44 sloc)  4.56 KB
 
-## Hey, [Haany here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, [Kamikaze here!](https://youtube.com/@ayoupvi)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
+[![Linkedin Badge](https://img.shields.io/badge/-Mohamed Ayoup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-ayoub-944967185/)](https://www.linkedin.com/in/mohamed-ayoub-944967185/) [![Gmail Badge](https://img.shields.io/badge/-mohamedosamaayoup202676@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedosamaayoup202676@gmail.com)](mailto:mohamedosamaayoup202676@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Mohamed%Ayoup-c14438?style=flat-square&logo=Youtube&link=https://youtube.com/@ayoupvi)](https://youtube.com/@ayoupvi)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
