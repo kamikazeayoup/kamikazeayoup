@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/kamikazeayoup">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=620&lines=Staff+Software+Engineer+%F0%9F%87%AA%F0%9F%87%AC;Turning+coffee+into+scalable+systems+%E2%98%95;3M%2B+users+served%2C+still+counting...;Probably+refactoring+something+right+now" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=620&lines=Software+Engineer+%F0%9F%87%AA%F0%9F%87%AC;Turning+coffee+into+scalable+systems+%E2%98%95;3M%2B+users+served%2C+still+counting...;Probably+refactoring+something+right+now" alt="Typing SVG" />
   </a>
 </p>
 
