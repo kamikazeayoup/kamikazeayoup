@@ -10,8 +10,8 @@
 
 ### 🧠 About Me
 
-- 🛠 **Staff Software Engineer @ KLAO** — leading a small but mighty full-stack squad
-- 🏗 5+ years shipping production systems across **government** and **product** platforms
+- 🛠 **Software Engineer @ KLAO** — leading a small but mighty full-stack squad
+- 🏗 3+ years shipping production systems across **government** and **product** platforms
 - 👨‍🏫 Mentored **20+ engineers** at work, and **1,000+ students** through the ECPC competitive programming community
 - ☁️ **AWS Cloud Practitioner** certified
 - 🎓 BSc in Computer Science, **3.67 GPA**, Misr University for Science and Technology
